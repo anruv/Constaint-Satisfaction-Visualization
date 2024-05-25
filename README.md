@@ -45,22 +45,3 @@ This project is a Sudoku solver and generator built using Python and Tkinter for
 
 5. **Reset Grid**:
    - Click the "Reset" button to clear the grid.
-
-## Functionality
-
-### Generate Puzzle
-
-- Generates a fully valid Sudoku board using a backtracking algorithm.
-- Randomly removes a specified number of cells to create a playable puzzle.
-- Ensures the generated puzzle has a unique solution.
-
-### Solve Puzzle
-
-- Uses a backtracking algorithm to solve the puzzle.
-- Visualizes the solving process step-by-step.
-- Stops solving and updates the grid in real-time to allow observation of the algorithm's progress.
-
-### Reset Grid
-
-- Clears the grid and stops any ongoing solving process.
-- Resets the background color of all cells.
